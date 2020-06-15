@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">FlagQuiz</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_level2">Level2Activity</string>
+    <string name="title_activity_level3">Level3Activity</string>
+    <string name="title_activity_level4">Level4Activity</string>
+    <string name="lvl_1_random_flag">lvl 1 random flag</string>
+    <string name="submitBtnLvl1">Submit</string>
+    <string name="space" />
+    <string name="a_random_flag">A random flag</string>
+    <string name="textview">TextView</string>
+    <string name="enter_a_letter">Enter a Letter!</string>
+    <string name="random_flag">Random Flag</string>
+    <string name="pick_country_for">Pick Country For:</string>
+    <string name="country">Country</string>
+    <string name="feedback">feedback</string>
+    <string name="countryname">countryname</string>
+    <string name="correct">Correct!</string>
+    <string name="incorrect">Incorrect!</string>
+    <string name="next">Next</string>
+    <string name="incorrect_guess">Incorrect guess</string>
+    <string name="CORRECT">CORRECT!</string>
+    <string name="WRONG">WRONG!</string>
+    <string name="Wrong">Wrong</string>
+    <string name="Correct">Correct</string>
+    <string name="submit">Submit</string>
+    <string name="flag2">Flag2</string>
+    <string name="flag3">Flag3</string>
+    <string name="flag1">Flag1</string>
+    <string name="guess_countries_for_all_flags">Guess Countries for All Flags:</string>
+    <string name="score">Score:</string>
+    <string name="_0">0</string>
+    <string name="guess_a_country">Guess a country!</string>
+    <string name="advanced_level">Advanced level</string>
+    <string name="guess_the_flag">Guess the Flag</string>
+    <string name="guess_hints">Guess-Hints</string>
+    <string name="guess_the_country">Guess the Country</string>
+    <string name="_10">10</string>
+    <string name="timer_on">Timer On</string>
+    <string name="timer_off">Timer Off</string>
+
+</resources>
